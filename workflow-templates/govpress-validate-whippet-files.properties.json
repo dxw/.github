@@ -1,0 +1,11 @@
+{
+    "name": "Validate Whippet files",
+    "description": "Template for validating whippet.json and whippet.lock files",
+    "iconName": "dxw-mark",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "^whippet.json$"
+    ]
+}
