@@ -60,7 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to dxw’s techincal leads at code-of-conduct@dxw.com. If a
+reported to dxw’s technical leads at code-of-conduct@dxw.com. If a
 complaint relates to the conduct of the technical leads, then
 complaints may be reported to the CEO at
 code-of-conduct-md@dxw.com. The current holders of these roles can be found
