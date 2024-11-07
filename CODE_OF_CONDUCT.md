@@ -60,9 +60,9 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to dxw’s Chief Technology Officer at code-of-conduct@dxw.com. If a
-complaint relates to the conduct of the Chief Technology Officer, then
-complaints may be reported to the Managing Director at
+reported to dxw’s techincal leads at code-of-conduct@dxw.com. If a
+complaint relates to the conduct of the technical leads, then
+complaints may be reported to the CEO at
 code-of-conduct-md@dxw.com. The current holders of these roles can be found
 on [dxw’s people page](https://www.dxw.com/our-people/).
 
